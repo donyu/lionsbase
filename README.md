@@ -19,6 +19,12 @@ Lionsbase will support three types of users - student contributors, outside user
 * A headliners page about columbia entreprenuerial events and Columbia startup news
 * Students have access to perks for putting their website on (should help them get their startup to the next level)
 
+### Perks
+
+* SaaS discounts and free offers
+* Free admission to certain tech startup related events
+* Recommendations for specific CORE events relevant to startup
+
 ## Technology Stack
 
 ### Frontend
@@ -29,7 +35,7 @@ Lionsbase will support three types of users - student contributors, outside user
 * Coffeescript - because it beats straight javascript
 * Formtastic - since I predict there will be a lot of forms in this app
 * CarrierWave - so entrepreneurs can upload any relevant startup files
-* Backbone.js - MV everywhere, but actually will help w/ front-end
+* Angular.js - to help with UI components and data-binding
 * Mustache - for those templates that backbone views will use
 
 ### Backend
